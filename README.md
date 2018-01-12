@@ -1,4 +1,4 @@
-# iptc-reader [![Build Status](https://travis-ci.org/oaleynik/is-heic.svg?branch=master)](https://travis-ci.org/oaleynik/is-heic)
+# iptc-reader [![Build Status](https://travis-ci.org/oaleynik/iptc-reader.svg?branch=master)](https://travis-ci.org/oaleynik/iptc-reader)
 
 > Parse IPTC directory from buffer (similar to devongovett/exif-reader)
 
