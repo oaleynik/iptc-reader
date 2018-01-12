@@ -1,0 +1,23 @@
+{
+  "name": "iptc-reader",
+  "version": "1.0.0",
+  "description": "Parse IPTC directory from buffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "Oleh Aleinyk",
+    "email": "oleg.aleynik@gmail.com",
+    "url": "https://github.com/oaleynik"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oaleynik/iptc-reader"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.0.6",
+    "sharp": "^0.19.0"
+  }
+}
