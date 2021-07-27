@@ -1,4 +1,5 @@
 const IPTC_ENTRY_TYPES = new Map([
+  [0x05, 'title'],
   [0x78, 'caption'],
   [0x6E, 'credit'],
   [0x19, 'keywords'],
